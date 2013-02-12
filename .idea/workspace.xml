@@ -4,17 +4,14 @@
     <list default="true" id="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jasmins_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360694662770" ignored="false" />
-    <file path="$PROJECT_DIR$/config/routes.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
+    <file path="/Gemfile" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360701421949" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/inflections.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/mime_types.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
-    <file path="$PROJECT_DIR$/config/application.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/secret_token.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/session_store.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
     <file path="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" changelist="8c977c13-2042-4d25-bd20-9d8f9ee26ce7" time="1360697177592" ignored="false" />
@@ -54,19 +51,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="205" column="52" selection-start="4641" selection-end="4641" vertical-scroll-proportion="0.8432056">
+            <state line="205" column="52" selection-start="4641" selection-end="4641" vertical-scroll-proportion="-9.68">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="60" selection-start="643" selection-end="643" vertical-scroll-proportion="-20.192308">
+            <state line="39" column="23" selection-start="719" selection-end="719" vertical-scroll-proportion="0.26350245">
               <folding />
             </state>
           </provider>
@@ -90,8 +87,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -155,7 +152,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmins_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmins_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmins_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasmins_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -507,20 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.rdoc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="60" selection-start="643" selection-end="643" vertical-scroll-proportion="-20.192308">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -530,7 +541,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="52" selection-start="4641" selection-end="4641" vertical-scroll-proportion="0.8432056">
+        <state line="205" column="52" selection-start="4641" selection-end="4641" vertical-scroll-proportion="-9.68">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="23" selection-start="719" selection-end="719" vertical-scroll-proportion="0.26350245">
           <folding />
         </state>
       </provider>
